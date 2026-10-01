@@ -24,7 +24,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: Gitnado
     Publisher: Gitnado Contributors
-    DisplayVersion: 0.9.1
     ProductCode: Gitnado
   InstallationMetadata:
     DefaultInstallLocation: '%LocalAppData%\Gitnado'
@@ -37,7 +36,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: Gitnado
     Publisher: Gitnado Contributors
-    DisplayVersion: 0.9.1
     ProductCode: '{6117787E-D2B2-4488-96D0-88463BBA10E7}'
     UpgradeCode: '{84C95AFF-09D5-5959-BE4D-927B1CC7FC1B}'
   InstallationMetadata:
